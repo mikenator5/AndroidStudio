@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">List App | Created by Mike D</string>
+    <string name="beautiful_pic">Beautiful Pic</string>
+
+    <string-array name="items">
+        <item>Skyrim</item>
+        <item>Rocket League</item>
+        <item>Super Smash Bros.</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$19.99</item>
+        <item>$19.99</item>
+        <item>$59.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Traverse the land of Skyrim slaying dragons and completing quests!</item>
+        <item>Play Soccer with Cars!</item>
+        <item>Play as popular Nintendo characters and beat your friends!</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">List App | Created by Mike D</string>
+    <string name="beautiful_pic">Beautiful Pic</string>
+
+    <string-array name="items">
+        <item>Peaches</item>
+        <item>Tomato</item>
+        <item>Squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$0.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Delicious peaches from Georgia</item>
+        <item>Juicy tomatoes from Florida</item>
+        <item>Fresh squash from California</item>
+    </string-array>
+
+</resources>
